@@ -1,4 +1,6 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+#This checks if a certain number num is a number in the fibbonacci sequence. 
+#It loops till the number is the sequence is either greater or equal to the number in the sequence.
+#Thus we validate if the number is in the fibonacci sequence.
 import sys
 
 tot = sys.stdin.readline().strip()
