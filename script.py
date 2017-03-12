@@ -1,4 +1,5 @@
-# __Author__: SamuelMagondu 
+__author__ =  "SamuelMagondu"
+__version__ = "python2.7"
 
 import dateutil.parser
 import datetime
